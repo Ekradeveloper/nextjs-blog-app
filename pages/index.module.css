@@ -1,0 +1,15 @@
+/* pages/index.module.css */
+.container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .container h1 {
+    font-size: 24px;
+  }
+  
+  .container h3 {
+    color: #0070f3;
+    font-weight: 800;
+  }
+  

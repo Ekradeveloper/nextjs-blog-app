@@ -1,0 +1,29 @@
+/* pages/blog.module.css */
+.container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .container h1 {
+    font-size: 28px;
+  }
+  
+  .container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .container li {
+    margin-bottom: 10px;
+  }
+  
+  .container h2 {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .container h2:hover {
+    color: #0070f3;
+  }
+  

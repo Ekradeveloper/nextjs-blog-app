@@ -1,0 +1,22 @@
+
+[
+    {
+      "id": 1,
+      "title": "My First Blog Post",
+      "content": "This is the content of my first blog post.",
+      "date": "2023-08-14"
+    },
+    {
+      "id": 2,
+      "title": "Next.js: A Powerful Framework",
+      "content": "Next.js is a fantastic framework for building modern web applications.",
+      "date": "2023-08-15"
+    },
+    {
+      "id": 3,
+      "title": "The Importance of Web Accessibility",
+      "content": "Ensuring web accessibility is essential for reaching a wider audience.",
+      "date": "2023-08-16"
+    }
+  ]
+  
